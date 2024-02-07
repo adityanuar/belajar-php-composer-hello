@@ -1,6 +1,6 @@
 <?php
 
-namespace Adit\Lib;
+namespace Adityanuar\Lib;
 
 class Customer 
 {
