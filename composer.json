@@ -1,0 +1,20 @@
+{
+    "name": "adit/lib",
+    "description": "belajar bikin lib",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Adit\\Lib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aditya",
+            "email": "adityanuar@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
