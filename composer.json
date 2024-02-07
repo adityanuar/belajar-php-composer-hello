@@ -1,11 +1,11 @@
 {
-    "name": "adit/lib",
+    "name": "adityanuar/lib",
     "description": "belajar bikin lib",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Adit\\Lib\\": "src/"
+            "Adityanuar\\Lib\\": "src/"
         }
     },
     "authors": [
